@@ -14,11 +14,11 @@ function multiply(a,B) {
 function divide(a,B) {
   return(a/=b)
 }
-function inc(n) {
-  return(n++)
+function inc(a) {
+  return(a+=1)
 }
-function dec(n) {
-  return(n--)
+function dec(a) {
+  return(a-=1)
 }
 function parseInt(a,b) {
   return(parseInt(a,b))
