@@ -5,13 +5,13 @@ var n
 function add(a,b) {
   return(a+=b)
 }
-function subtract(a,B) {
+function subtract(a,b) {
   return(a-=b)
 }
-function multiply(a,B) {
+function multiply(a,b) {
   return(a*=b)
 }
-function divide(a,B) {
+function divide(a,b) {
   return(a/=b)
 }
 function inc(a) {
