@@ -20,8 +20,8 @@ function inc(a) {
 function dec(a) {
   return(a-=1)
 }
-function parseInt(a,b) {
-  return(parseInt(a,b))
+function makeInt(n) {
+  return(parseInt(a,10))
 }
 function parseFloat(a,b) {
   return(parseFloat(a,b))
